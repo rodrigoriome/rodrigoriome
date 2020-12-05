@@ -22,7 +22,7 @@ Coding is actually fun when you got a challenging project and time to write good
 
 Maybe one day I'll add my social media here so we can have a talk about anything... except code, lol.
 
-Fun fact: I have written this README inspired by @eddiejaoude
+Fun fact: I have written this README inspired by [@eddiejaoude](https://github.com/eddiejaoude)
 
 ---
 
