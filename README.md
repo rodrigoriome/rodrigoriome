@@ -32,9 +32,9 @@ I have already developed dozens of business projects from ground up, but they're
 
 Here are some dumb projects that were actually fun to develop.
 
-- [Type App (React)](type-app-react/)
-- [Type App (Vue)](type-app-vue/)
-- [Fincalc](fincalc/)
+- [Type App (React)](https://rodrigoriome.github.io/type-app-react)
+- [Type App (Vue)]((https://rodrigoriome.github.io//type-app-vue)
+- [Fincalc]((https://rodrigoriome.github.io/fincalc)
 
 I hope to work with OSS as soon as I get enough experience (I don't want to be the `#a5s6d1 (chore) fix typo in comment` kind of collaborator, lol).
 
